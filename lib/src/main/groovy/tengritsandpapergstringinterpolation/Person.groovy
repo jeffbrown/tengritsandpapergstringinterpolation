@@ -1,0 +1,4 @@
+package tengritsandpapergstringinterpolation
+
+class Person {
+}
